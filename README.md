@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Dev
 
 
-## 💻 Full-Stack Developer | MERN Stack  |  PHP Stack | Laravel | Code Igniter 
+## 💻 Full-Stack Developer | MERN Stack  |  PHP Stack | Laravel | Code Igniter | MySQL
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, you can email me on dev.soft687@gmail.com
