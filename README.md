@@ -1,10 +1,12 @@
 # 👋 Hi, I’m @Dev
+
+--- 
+
+## 💻 Full-Stack Developer | MERN Stack  |  PHP Stack | Laravel | Code Igniter | 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me, you can email me on dev.soft687@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 # 📊 GitHub Stats:
 
