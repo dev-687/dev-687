@@ -8,7 +8,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-687&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-contributor-stats.vercel.app/api?username=dev-687&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 <!---
