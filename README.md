@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @Dev
 
---- 
 
 ## 💻 Full-Stack Developer | MERN Stack  |  PHP Stack | Laravel | Code Igniter 
 - 👀 I’m interested in Software Development
