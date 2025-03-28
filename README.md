@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev
+# 👋 Hi, I’m @Dev
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on 
